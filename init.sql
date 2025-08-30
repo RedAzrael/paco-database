@@ -39,7 +39,7 @@ INSERT INTO items (name, description) VALUES
 ('Braton Prime Receiver', 'A component for the Braton Prime weapon.'),
 ('Braton Prime Stock', 'A component for the Braton Prime weapon.'),
 ('Forma', 'Used to polarize Warframe and weapon slots.'),
-('Orokin Cell', 'A rare resource used in crafting.'),
+('Braton Prime Blueprint', 'A blueprint used for the Braton Prime weapon.'),
 ('Paris Prime String', 'A component for the Paris Prime weapon.'),
 ('Paris Prime Grip', 'A component for the Paris Prime weapon.'),
 ('Paris Prime Upper Limb', 'A component for the Paris Prime weapon.'),
