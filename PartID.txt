@@ -1,0 +1,148 @@
+Forma 1
+
+Braton Prime 
+Barrel 2
+Receiver 3
+Stock 4
+BP 5
+
+Paris Prime
+String 6
+Grip 7
+Upper Limb 8
+Lower Limb 9
+BP 10
+
+Caliban Prime
+Neuroptics 11
+Chassis 12
+Systems 13
+BP 14
+
+Venato Prime
+Blade 15
+Handle 16
+BP 17
+
+Vadarya Prime
+Barrel 18
+Receiver 19
+Stock 20
+BP 21
+
+Xaku Prime
+Neuroptics 22
+Chassis 23
+Systems 24
+BP 25
+
+Fang Prime
+Blade 26
+Handle 27
+BP 28
+
+Velox Prime
+Barrel 29
+Receiver 30
+BP 31
+
+Nautilus Prime
+Cerebrum 32
+Carapace 33
+Systems 34
+BP 35
+
+Trumna Prime
+Barrel 37
+Receiver 38
+Stock 39
+BP 40
+
+Cedo Prime 
+Barrel 41
+Receiver 42
+Stock 43
+BP 44
+
+Kompressa Prime
+Barrel 45
+Receiver 46
+BP 47
+
+Gauss Prime
+Neuroptics 48
+Chassis 49
+Systems 50
+BP 51
+
+Bronco Prime
+Barrel 52
+Receiver 53
+BP 54
+
+Akbronco Prime
+Link 55
+BP 56
+
+Dual Zoren Prime
+Blade 57
+Handle 58
+BP 59
+
+Lavos Prime
+Neuroptics 60
+Chassis 61
+Systems 62
+BP 63
+
+Epitaph Prime
+Barrel 64
+Receiver 65
+BP 66
+
+Okina Prime
+Blade 67
+Handle 68
+BP 69
+
+Daikyu Prime
+String 70
+Grip 71
+Upper Limb 72
+Lower Limb 73
+BP 74
+
+Sevagoth Prime
+Neuroptics 75
+Chassis 76
+Systems 77
+BP 78
+
+Protea Prime
+Neuroptics 79
+Chassis 80
+Systems 81
+BP 82
+
+Acceltra Prime 
+Barrel 83
+Receiver 84
+Stock 85
+BP 86
+
+Quassus Prime
+Blade 87
+Handle 88
+BP 89
+
+Akarius Prime
+Barrel 90
+Receiver 91
+Link 92
+BP 93
+
+Burston Prime 
+Barrel 94
+Receiver 95
+Stock 96
+BP 97
