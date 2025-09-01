@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS warframe;
 
 -- Creating user and granting privileges
 CREATE USER IF NOT EXISTS 'warframe_user'@'%' IDENTIFIED BY 'secure_password_123';
-GRANT SELECT, INSERT, UPDATE, DELETE ON warframe.* TO 'warframe_user'@'localhost';
+GRANT SELECT, INSERT, UPDATE, DELETE ON warframe.* TO 'warframe_user'@'%';
 
 -- Using the database
 USE warframe;
